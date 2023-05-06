@@ -1,1 +1,1 @@
-# surprise,so this is just a nomal program
+# surprise,so this is just a normal program
